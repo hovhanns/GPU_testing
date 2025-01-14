@@ -5,3 +5,4 @@ allure-pytest==2.13.5
 numpy==2.1.2
 transformers==4.45.2
 
+
